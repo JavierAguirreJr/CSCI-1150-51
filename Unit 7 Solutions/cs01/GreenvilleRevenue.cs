@@ -5,6 +5,19 @@ class GreenvilleRevenue
 {
     static void Main()
     {
+        /*
+         * 
+            > Be sure to use the all methods provided in the *GreenvilleRevenue.cs* file and define the methods without changing their arguments or access specifiers.
+
+            * `GetContestantNumber` - This method gets and returns a valid number of contestants and is called twice 
+                     once for last year’s number of contestants and once for this year’s value
+            * `DisplayRelationship` - This method accepts the number of contestants this year and last year and displays one of the three 
+                     messages that describes the relationship between the two contestant values
+            * `GetContestantData` - This method fills the array of competitors and their talent codes
+            * `GetLists` - This method continuously prompts for talent codes and displays contestants with the corresponding talent until 
+                   a sentinel value is entered
+        */
+
         // Write your code here
         //int lastYear;
         int thisYear;
